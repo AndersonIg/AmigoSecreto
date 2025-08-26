@@ -1,0 +1,29 @@
+Amigo Secreto
+Este projeto é uma aplicação simples para organizar um sorteio de "amigo secreto". O usuário pode adicionar nomes de amigos a uma lista e, em seguida, sortear aleatoriamente um para cada pessoa.
+
+Funcionalidades
+Adicionar Nomes: Insira o nome de um amigo em um campo de texto e adicione-o à lista.
+
+Validar Entrada: Se o campo estiver vazio, um alerta será exibido solicitando que você digite um nome.
+
+Visualizar Lista: Os nomes adicionados são exibidos em uma lista visível na página.
+
+Sorteio Aleatório: Ao clicar em "Sortear amigo", o programa embaralha os nomes e exibe o resultado do sorteio, mostrando quem tirou quem.
+
+Tecnologias Utilizadas
+HTML
+
+CSS
+
+JavaScript
+
+Como Usar
+Clone este repositório para a sua máquina local.
+
+Abra o arquivo index.html no seu navegador.
+
+Digite o nome dos seus amigos no campo de texto e clique em "Adicionar".
+
+Após adicionar todos os nomes, clique em "Sortear amigo".
+
+O resultado do sorteio aparecerá na tela, mostrando a combinação de cada participante.
